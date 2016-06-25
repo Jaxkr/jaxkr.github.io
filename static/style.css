@@ -9,6 +9,12 @@ body {
 	width: 20%;
 	display: block;
 }
+@media(max-width:767px){
+	.me {
+		width: 25%;
+	}
+}
+
 h1 {
 	text-align: center;
 }
